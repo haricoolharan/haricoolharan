@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ashwin Senthilvel @haricoolharan
-- 👀 I’m interested in Python,Coding,Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Pyspark
-- 💞️ I’m looking to collaborate on ML pipelines
+- 👀 I’m interested in Python,pyspark,Coding,Machine Learning and Deep Learning.
+- 💞️ I’m looking to collaborate on pyspark bigdata
 - 📫 How to reach me ashhcoolme@gmail.com
 
 <!---
